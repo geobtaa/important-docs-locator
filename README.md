@@ -1,2 +1,2 @@
 # Important Documents Locator
-This is a site intended to help users find important documents by type filtration. See [here](https://gin.btaa.org/important-docs-locator/).
+This is a dynamic site intended to help users find [important documents](https://docs.google.com/spreadsheets/d/1UVXt7_ZmzTnCeraJKl-0wL4rD1n_dlyMlsNrYzjbW9M/edit?gid=0#gid=0) by type filtration. See [here](https://gin.btaa.org/important-docs-locator/). If you would like to add a GIN document that you think is important and useful to GIN members, please add a link to the spreadsheet and fill out the following columns [here](https://docs.google.com/spreadsheets/d/1UVXt7_ZmzTnCeraJKl-0wL4rD1n_dlyMlsNrYzjbW9M/edit?gid=0#gid=0).
